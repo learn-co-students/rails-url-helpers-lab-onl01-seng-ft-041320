@@ -1,5 +1,6 @@
 require 'byebug'
 require 'rails_helper'
+require 'execjs'
 
 describe 'Route to view' do
   it 'has an index page' do
